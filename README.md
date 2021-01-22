@@ -1,4 +1,4 @@
-# resume_projects
+# python-chat server
 
 
 an easy chat server for small school projects.
